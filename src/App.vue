@@ -3,20 +3,20 @@ export default {
   data() {
     return {
       profile: {
-        name: 'indralana',
+        name: 'kydo',
         image: '/profile.png' // Replace with your actual profile image URL
       },
       socials: [
-        { platform: 'Email', url: 'mailto: indraklana23@gmail.com', icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png' } // Updated icon URL
+        { platform: 'Email', url: 'mailto:me@kydo.lol', icon: 'https://cdn-icons-png.flaticon.com/512/732/732200.png' } // Updated icon URL
       ],
       externalLinks: [
-        { platform: 'Facebook', url: 'https://www.facebook.com/Indralana178', icon: 'https://cdn-icons-png.flaticon.com/512/733/733547.png', name: 'Facebook' },
-        { platform: 'Instagram', url: 'https://www.instagram.com/indralana23', icon: 'https://cdn-icons-png.flaticon.com/128/2111/2111463.png', name: 'Instagram' },
-        { platform: 'YouTube', url: 'https://www.youtube.com/@indralana23', icon: 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png', name: 'YouTube' },
-        { platform: 'Spotify', url: 'https://open.spotify.com/user/31o3ekpikpg4dhsmzissz6uv2sny?si=MZhfTPzETbqymvYdg_34_g', icon: 'https://cdn-icons-png.flaticon.com/128/174/174872.png', name: 'Spotify' },
-        { platform: 'Twitter', url: 'https://twitter.com/IndraLana136624', icon: 'https://cdn-icons-png.flaticon.com/512/733/733579.png', name: 'Twitter' },
-        { platform: 'GitHub', url: 'https://github.com/indralana', icon: 'https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png', name: 'GitHub' },
-        { platform: 'Discord', url: 'https://discord.gg/seS3pWU7NX', icon: 'https://cdn-icons-png.flaticon.com/128/2504/2504896.png', name: 'Discord' },
+        { platform: 'Facebook', url: 'https://www.facebook.com/jecvky', icon: 'https://cdn-icons-png.flaticon.com/512/733/733547.png', name: 'Facebook' },
+        { platform: 'Instagram', url: 'https://www.instagram.com/jecvky', icon: 'https://cdn-icons-png.flaticon.com/128/2111/2111463.png', name: 'Instagram' },
+        { platform: 'YouTube', url: 'https://www.youtube.com/@chanjecky', icon: 'https://cdn-icons-png.flaticon.com/512/1384/1384060.png', name: 'YouTube' },
+        { platform: 'Spotify', url: 'https://open.spotify.com/user/31zu3jadmf6vz47gm3sfgnqb2zaa', icon: 'https://cdn-icons-png.flaticon.com/128/174/174872.png', name: 'Spotify' },
+        { platform: 'Twitter', url: 'https://twitter.com/jeckydo_o', icon: 'https://cdn-icons-png.flaticon.com/512/733/733579.png', name: 'Twitter' },
+        { platform: 'GitHub', url: 'https://github.com/81JC', icon: 'https://seeklogo.com/images/G/github-logo-2E3852456C-seeklogo.com.png', name: 'GitHub' },
+        { platform: 'Discord', url: 'https://discord.com/invite/JVhKwNGmKF', icon: 'https://cdn-icons-png.flaticon.com/128/2504/2504896.png', name: 'Discord' },
         { platform: 'Discord Bot', url: 'https://soulvibe.xyz', icon: 'https://cdn-icons-png.flaticon.com/128/4712/4712027.png', name: 'Discord Bot' }
       ]
     };
